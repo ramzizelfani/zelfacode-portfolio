@@ -1,10 +1,14 @@
-# Takuya's Homepage
+# ZelfaCode's Portfolio
 
-[https://www.craftz.dog/](https://www.craftz.dog/)
+This is the source code for my portfolio website
+Check it out at this link:
+[ZelfaCode Portfolio](https://zelfa100daysofcode.netlify.app/)
 
-## Tutorial
+## Credit
 
-Watch how I built this website on YouTube:
+This project is a fork of Takuya Matsuyama's [HomePage website](https://www.craftz.dog/)
+
+Watch how he built this website on YouTube:
 
 [![YouTube thumbnail](./doc/thumb.png)](https://www.youtube.com/watch?v=bSMZgXzC9AA)
 
@@ -30,7 +34,3 @@ $PROJECT_ROOT
 ```
 
 ---
-
-Looking for a Markdown note-taking app? Check out my app called Inkdrop:
-
-[![Inkdrop](https://github.com/craftzdog/dotfiles-public/raw/master/images/inkdrop.png)](https://www.inkdrop.app/)
