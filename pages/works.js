@@ -3,8 +3,8 @@ import Layout from '../components/layouts/article'
 import Section from '../components/section'
 import { WorkGridItem } from '../components/grid-item'
 
-import thumbSmartq from '../public/images/works/smartq_eyecatch.png'
-import thumbZelfa100 from '../public/images/works/zelfa100_eyecatch.png'
+import thumbSmartq from '../public/images/works/smartq_eyecatch'
+import thumbZelfa100 from '../public/images/works/zelfa100_eyecatch'
 
 const Works = () => (
   <Layout title="Works">
