@@ -3,8 +3,8 @@ import Layout from '../components/layouts/article'
 import Section from '../components/section'
 import { WorkGridItem } from '../components/grid-item'
 
-import thumbSmartq from '../public/images/works/smartq_eyecatch.png'
-import thumbZelfa100 from '../public/images/works/zelfa100_eyecatch.png'
+// import thumbSmartq from '../public/images/works/smartq_eyecatch.png'
+// import thumbZelfa100 from '../public/images/works/zelfa100_eyecatch.png'
 
 const Works = () => (
   <Layout title="Works">
@@ -15,7 +15,8 @@ const Works = () => (
 
       <SimpleGrid columns={[1, 1, 2]} gap={6}>
         <Section>
-          <WorkGridItem id="smartq" title="SmartQ" thumbnail={thumbSmartq}>
+          {/* <WorkGridItem id="smartq" title="SmartQ" thumbnail={thumbSmartq}> */}
+          <WorkGridItem id="smartq" title="SmartQ">
             A cloud based Queue Management System (SaaS) that help businesses
             manage their customer flow efficiently within their locations.
           </WorkGridItem>
@@ -34,7 +35,7 @@ const Works = () => (
         <Section delay={0.3}>
           <WorkGridItem
             id="zelfa100"
-            thumbnail={thumbZelfa100}
+            // thumbnail={thumbZelfa100}
             title="zelfa100daysofcode"
           >
             A list of 8 projects made using HTML, CSS, and Vanilla JS.
