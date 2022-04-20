@@ -2,7 +2,7 @@
 
 This is the source code for my portfolio website
 Check it out at this link:
-[ZelfaCode Portfolio](https://zelfatech.vercel.app/)
+[ZelfaCode Portfolio](https://zelfacode-portfolio.vercel.app/)
 
 ## Credit
 
@@ -16,7 +16,6 @@ Watch how he built this website on YouTube:
 
 - [Next.js](https://nextjs.org/) - A React framework with hybrid static & server rendering, and route pre-fetching, etc.
 - [Chakra UI](https://chakra-ui.com/) - A simple, modular and accessible component library for React
-- [Framer Motion](https://www.framer.com/motion/) - An animation library for React
 
 ## Project structure
 

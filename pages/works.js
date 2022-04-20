@@ -7,7 +7,6 @@ import thumbSmartq from '../public/images/works/smartq_eyecatch.png'
 import thumbZelfa100 from '../public/images/works/zelfa100_eyecatch.png'
 
 const Works = () => {
-  console.log(thumbSmartq)
   return (
     <Layout title="Works">
       <Container>

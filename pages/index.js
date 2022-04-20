@@ -32,7 +32,7 @@ const Home = () => (
         textAlign="center"
         bg={useColorModeValue('whiteAlpha.500', 'whiteAlpha.200')}
       >
-        Hello, I&apos;m a full-stack JS developer based in Tunisia!
+        Hello, I&apos;m an IT Specialist based in Tunisia!
       </Box>
 
       <Box display={{ md: 'flex' }}>
@@ -41,7 +41,8 @@ const Home = () => (
             Ramzi Zelfani
           </Heading>
           <p>
-            Software Engineer ( JS Enthusiast / Web Developer / IT Specialist )
+            IT Specialist ( Systems Engineer | Cloud & DevOps Consultant | JS
+            Developer | Geek )
           </p>
         </Box>
         <Box
@@ -68,16 +69,17 @@ const Home = () => (
           About
         </Heading>
         <Paragraph>
-          I am a professional software engineer with many years of experience in
-          the ICT sector, combined with a solid education and a strong ability
-          to acquire new knowledge. I am able to work both in a team and
-          independently. I have strong organizational skills and proven
-          competencies in developing modern Full Stack web applications.
+          I am a professional IT specialist with many years of experience in the
+          ICT sector, combined with a solid education and a strong ability to
+          acquire new knowledge. I am able to work both in a team and
+          independently. I have strong organizational skills as well as proven
+          competencies to ensure the highest level of availability, efficiency
+          and security of IT systems and infrastructure.
         </Paragraph>
         <Box align="center" my={4}>
           <NextLink href="/works">
             <Button rightIcon={<ChevronRightIcon />} colorScheme="teal">
-              My portfolio
+              Dev Projects
             </Button>
           </NextLink>
         </Box>
@@ -107,13 +109,14 @@ const Home = () => (
           the Naval Postgraduate school - USA
         </BioSection>
         <BioSection>
-          <BioYear>2015 - 2021</BioYear>
-          Worked as an IT specialist and Software developer wothin the Tunisian
-          MoD
+          <BioYear>2015 - Now</BioYear>
+          Works as an IT Systems Engineer and Project manager of a small
+          Software development team within the Tunisian MoD
         </BioSection>
         <BioSection>
           <BioYear>2021 - Now</BioYear>
-          Works as a Freelancer
+          Works as a Freelancer (IT Consultant for Zetabyte Software Solutions -
+          Tunisian Startup)
         </BioSection>
       </Section>
 
@@ -121,9 +124,21 @@ const Home = () => (
         <Heading as="h3" variant="section-title">
           I ♥
         </Heading>
+        <Heading as="h4" variant="section-title">
+          In front of my &#128187;:
+        </Heading>
         <Paragraph>
-          JS, Software development, Modern Web Technologies, Teddy Bears,
-          Sports, Technical writing, knowledge sharing...
+          * aquiring new knowledge related to the fields of Cloud, Modern Web
+          Technologies and Software development, DevOps and Project management{' '}
+          <br />* reading and writing technical articles and sharing my
+          knowledge with colleagues and IT community
+        </Paragraph>
+        <Heading as="h4" variant="section-title">
+          Away from my &#128187;:
+        </Heading>
+        <Paragraph>
+          * Playing or watching Soccer * Jogging * Playing with my two lovely
+          daughters
         </Paragraph>
       </Section>
 

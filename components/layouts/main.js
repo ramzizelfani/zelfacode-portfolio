@@ -8,9 +8,9 @@ const Main = ({ children, router }) => {
     <Box as="main" pb={8}>
       <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="description" content="ZelfaCode's Portfolio" />
+        <meta name="description" content="ZelfaTek's Portfolio" />
         <meta name="author" content="ramzi Zelfani" />
-        <meta name="author" content="ZelfaCode" />
+        <meta name="author" content="ZelfaTek" />
         <link rel="apple-touch-icon" href="apple-touch-icon.png" />
         <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
         <meta name="twitter:card" content="summary_large_image" />
